@@ -18,8 +18,8 @@ npm install
 ### Bitcore-node module
 ```
 cd node_modules
-rm -rf bitcore-lib
-ln -s ~/bitcore-lib
+rm -rf suqacore-lib
+ln -s ~/suqacore-lib
 ```
 
 ### Browser
