@@ -10,7 +10,9 @@ SUQA is a pow X22i
 ## Get Started
 ### NodeJS
 ```
-npm install @crptec/suqacore-lib
+git clone https://github.com/crptec/suqacore-lib.git
+cd suqacore-lib
+npm install 
 ```
 
 ### Browser
