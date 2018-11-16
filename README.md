@@ -15,6 +15,10 @@ cd suqacore-lib
 npm install 
 ```
 
+### Bitcore-node module
+cd node_modules
+rm -rf bitcore-lib
+ln -s ~/bitcore-lib
 ### Browser
 
 ## Docs
